@@ -8,12 +8,12 @@ Predict the daily question of leetcode.
 
 
 ### Schedule
-|task|start date|achievements|progress|deadline|
+|task|start date|expected achievements|progress|deadline|
 |:---:|:---:|:---:|:---:|:---:|
-|data collection|5.18||  |5.20|
+|data collection|5.18|structured data|  |5.20|
 |feature selection|5.21|   |  |5.25*|
-|   |   |   |   |
-|   |   |   |   |
+|SimpleRNN|   |   |   |
+|...|   |   |   |
 
 * There is a final exam on June 1st.
 
