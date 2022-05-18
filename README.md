@@ -20,7 +20,11 @@ Predict the daily question of leetcode.
 ##### Phase 1: Data Collection
 > * background: data for two years from April 2020 can be obtained on the official website
 > 
-> * difficulty: crawl the list of historical daily questions from `leetcode-cn.com`
+> * difficulty: ~~crawl the list of historical daily questions from `leetcode-cn.com`~~ collect json data with `F12` is ok ...
 > 
 > * further: `leetcode.cn` and `leetcode.com` have different problem lists, data in English may also be used in the future.
+
+- [X] [5/18] Get Json data
+
+- [ ] [5/19] Convert to csv format
 
