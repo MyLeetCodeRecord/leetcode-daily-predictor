@@ -24,7 +24,10 @@ Predict the daily question of leetcode.
 > 
 > * further: `leetcode.cn` and `leetcode.com` have different problem lists, data in English may also be used in the future.
 
-- [X] [5/18] Get Json data
+- [X] [5/18] Get problem list in json
 
-- [ ] [5/19] Convert to csv format
+- [ ] [5/19] Get problem details (title, images, tags...)
 
+- [ ] [5/20] Convert to csv format
+
+- [ ] optional: `Official Solution` related labels. And the whole question set is required.
