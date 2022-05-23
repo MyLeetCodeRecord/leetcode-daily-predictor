@@ -20,14 +20,16 @@ Predict the daily question of leetcode.
 ##### Phase 1: Data Collection
 > * background: data for two years from April 2020 can be obtained on the official website
 > 
-> * difficulty: ~~crawl the list of historical daily questions from `leetcode-cn.com`~~ collect json data with `F12` is ok ...
+> * difficulty: 
+>   * ~~crawl the list of historical daily questions from `leetcode-cn.com`~~ collect json data with `F12` is ok ...
+>   * crawl the details of each problem.
 > 
 > * further: `leetcode.cn` and `leetcode.com` have different problem lists, data in English may also be used in the future.
 
 - [X] [5/18] Get problem list in json
 
-- [ ] [5/19] Get problem details (title, images, tags...)
+- [X] [5/19] Get problem details (title, images, tags...)
 
-- [ ] [5/20] Convert to csv format
+- [ ] [5/21] Convert to csv format
 
 - [ ] optional: `Official Solution` related labels. And the whole question set is required.
